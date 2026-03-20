@@ -13,3 +13,4 @@ jefferyhjw/bilinote-nginx:latest
 
 #ai
 ollama/ollama
+ghcr.io/open-webui/open-webui:main
